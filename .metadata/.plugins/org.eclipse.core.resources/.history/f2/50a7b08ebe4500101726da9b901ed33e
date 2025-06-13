@@ -1,0 +1,36 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>성적 순위</title>
+  <!-- 모든 JSP 파일의 <head>에 공통으로 포함 -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  
+</head>
+<body>
+  <h2>총점 기준 성적 순위</h2>
+  <table border="1">
+    <tr>
+      <th>순위</th>
+      <th>이름</th>
+      <th>중간고사</th>
+      <th>기말고사</th>
+      <th>총점</th>
+    </tr>
+    <c:forEach var="item" items="${rank}">
+      <tr>
+        <td>${item.rank}</td>
+        <td>${item.name}</td>
+        <td>${item.midScore}</td>
+        <td>${item.finScore}</td>
+        <td>${item.midScore + item.finScore}</td>
+      </tr>
+    </c:forEach>
+  </table>
+  <br>
+  <a href="/lab0610/">홈으로</a>
+</body>
+</html>

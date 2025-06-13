@@ -1,0 +1,66 @@
+# → 빌드 산출물
+/target/
+/build/
+
+# → IDE 설정 파일
+# IntelliJ
+/.idea/
+/*.iml
+/out/
+/*.ipr
+/*.iws
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+/.adt/
+/.loadpath
+
+# VS Code
+/.vscode/
+
+# → OS별 숨김 파일
+.DS_Store
+Thumbs.db
+
+# → 로그 파일
+*.log
+
+# → 환경설정, 개인 설정
+.env
+*.env
+
+# → Spring Boot 런타임
+/spring.log
+
+# → 인증 키, 패키지 잠금파일
+*.keystore
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# → 패키지 매니저 디렉터리
+/node_modules/
+
+# → MacOS
+.AppleDouble
+.LSOverride
+
+# → Windows
+ehthumbs.db
+Icon?
+
+# → 빌드 도구 캐시
+.gradle/
+/.settings.gradle
+.gradle/
+
+# → 프로필 설정
+.mvn/wrapper/maven-wrapper.jar
+
+# → 기타
+*.class
+*.jar
+*.war
+*.ear

@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\kopo\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1823557430.index
+\test\src\main\java
+C:\kopo\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1937595665.index
+\lab0611\src\main\java
+C:\kopo\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3341129309.index
+\lab0527\src\main\java
+C:\kopo\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2107291072.index
+\lab0610\src\main\java
+C:\kopo\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4176141093.index
+\0527\src\main\java

@@ -1,10 +1,6 @@
 INDEX VERSION 1.4+C:\kopo\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 2359412999.index
-4034910183.index
 1001304382.index
-1127672569.index
-3458399726.index
-1647326795.index
-314828270.index
-1937595665.index
+1711540828.index
 1286177192.index
+2432863070.index

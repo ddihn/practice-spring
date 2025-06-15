@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model>
-<aop-project name="lab0527"/>
-<aop-project name="lab0610"/>
-<aop-project name="lab0611"/>
-</aop-reference-model>
+<aop-reference-model/>

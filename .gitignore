@@ -64,3 +64,4 @@ Icon?
 *.jar
 *.war
 *.ear
+/.metadata/
